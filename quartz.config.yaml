@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sofiarestrepol.github.io
+  baseUrl: sofiarestrepol.com
   ignorePatterns:
     - private
     - templates
